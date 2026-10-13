@@ -20,6 +20,7 @@ O projeto está dividido em múltiplos repositórios, cada um responsável por u
 |---|---|
 | `wineflow-docs` (este) | Documentação geral, arquitetura, decisões de projeto |
 | `wineflow-data` | Tratamento e processamento dos dados coletados pelos sensores |
+| `wineflow-infrastructure` | Infraestrutura do projeto |
 | _(a definir)_ | Coleta de dados / integração com sensores |
 | _(a definir)_ | API / backend |
 | _(a definir)_ | Dashboard / visualização |
